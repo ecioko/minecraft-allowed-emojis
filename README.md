@@ -5,23 +5,23 @@ Copy and Paste! Like everyone else ;)
 Minecraft'ın izin verdiği UTF-8 emojilerini bu repoda bulabilirsin!
 Kopyala ve Yapıştır! Herkesin yaptığı gibi ;)
 
-☺ Smiling Face
+☺ Smiling
 
-☹ Frowning Face
+☹ Frowning
 
-☠ Skull and Crossbones
+☠ Skull, Crossbones
 
-❣ Heart Exclamation
+❣ Heart Particle
 
-❤ Red Heart
+❤ Heart
 
-✌ Victory Hand
+✌ Cheeese!
 
 ☝ Index Pointing Up
 
-✍ Writing Hand
+✍ Writing
 
-♨ Hot Springs
+♨ Hot Springs (Java :D)
 
 ✈ Airplane
 
@@ -137,13 +137,13 @@ Kopyala ve Yapıştır! Herkesin yaptığı gibi ;)
 
 ♂ Male Sign
 
-✖ Multiply
+✖ Multiply / Cancel
 
 ‼ Double Exclamation Mark
 
 〰 Wavy Dash
 
-☑ Check Box with Check
+☑ Check Box with Check Mark
 
 ✔ Check Mark
 
@@ -161,10 +161,6 @@ Kopyala ve Yapıştır! Herkesin yaptığı gibi ;)
 
 Ⓜ Circled M
 
-㊗ Japanese “Congratulations” Button
-
-㊙ Japanese “Secret” Button
-
 ▪ Black Small Square
 
 ▫ White Small Square
@@ -177,7 +173,6 @@ Kopyala ve Yapıştır! Herkesin yaptığı gibi ;)
 
 ☋ Descending Node
 
-Asterisk
 ☌ Conjunction
 
 ♜ Black Chess Rook
@@ -186,7 +181,9 @@ Asterisk
 
 ♡ White Heart Suit
 
-♬ Beamed Sixteenth Notes ‍ ☚ Black Left Pointing Index
+♬ Beamed Sixteenth Notes ‍ 
+
+☚ Black Left Pointing Hand
 
 ♮ Music Natural Sign
 
@@ -204,11 +201,11 @@ Asterisk
 
 ☭ Hammer and Sickle
 
-0 Digit Zero
+0 Zero
 
 ♢ White Diamond Suit
 
-3 Digit Three
+3 Three
 
 ✐ Upper Right Pencil
 
@@ -250,7 +247,7 @@ Asterisk
 
 ☬ Adi Shakti
 
-7 Digit Seven
+7 Seven
 
 ♧ White Club Suit
 
@@ -264,19 +261,19 @@ Asterisk
 
 ❧ Rotated Floral Heart Bullet
 
-2 Digit Two
+2 Two
 
-8 Digit Eight
+8 Eight
 
 ♄ Saturn
 
 ♁ Earth
 
-1 Digit One
+1 One
 
 ♔ White Chess King
 
-4 Digit Four
+4 Four
 
 ❥ Rotated Heavy Black Heart Bullet
 
@@ -284,11 +281,11 @@ Asterisk
 
 ☻ Black Smiling Face
 
-5 Digit Five
+5 Five
 
 ♤ White Spade Suit
 
-6 Digit Six
+6 Six
 
 ♞ Black Chess Knight
 
@@ -300,7 +297,7 @@ Asterisk
 
 ♩ Quarter Note
 
-9 Digit Nine
+9 Nine
 
 ☇ Lightning
 
@@ -314,10 +311,6 @@ Asterisk
 
 ☧ Chi Rho
 
-☉ Sun
-
-♇ Pluto
-
 ☩ Cross of Jerusalem
 
 ♙ White Chess Pawn
@@ -329,5 +322,3 @@ Asterisk
 ☨ Cross of Lorraine
 
 ♗ White Chess Bishop
-
-☳ Trigram for Thunder

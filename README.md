@@ -1,5 +1,9 @@
 # Minecraft Allowed Emojis
 You can find the UTF-8 emojis that Minecraft allows in this repository!
+Copy and Paste! Like everyone else ;)
+
+Minecraft'ın izin verdiği UTF-8 emojilerini bu repoda bulabilirsin!
+Kopyala ve Yapıştır! Herkesin yaptığı gibi ;)
 
 ☺ Smiling Face
 
